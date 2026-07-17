@@ -459,12 +459,6 @@ There's no `LICENSE` file in the project, so it doesn't currently specify usage 
 ## Author
 
 **Samarth Agrawal**
-B.Tech, Data Sciences and Engineering — Principles of Artificial Intelligence Lab (DSE 3241)
-Mini Project Report, April 2026 · Team: Individual
-
-Contact and social links — placeholder, not yet added:
-`[GitHub](#) · [LinkedIn](#) · [Email](#)`
-
+B.Tech, Data Sciences and Engineering 
 ---
 
-<p align="center"><sub>Generated from a full source-code, documentation, and report analysis of the uploaded project archive. Sections marked as not found in the project reflect the absence of that artifact in the codebase at the time of analysis.</sub></p>
